@@ -79,7 +79,7 @@ Contributions are welcome! Feel free to fork the repository and submit pull requ
 
 ## 📧 Contact
 For queries or collaborations:
-📩 Email: roshanbhagatbysiness2005@gmail.com
+📩 Email: roshanbhagatbusiness2005@gmail.com
 📌 GitHub: https://github.com/roshanbhagat05
 🔗 Linkedin: www.linkedin.com/in/roshanbhagat2005
 
