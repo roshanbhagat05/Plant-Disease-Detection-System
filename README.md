@@ -79,8 +79,9 @@ Contributions are welcome! Feel free to fork the repository and submit pull requ
 
 ## 📧 Contact
 For queries or collaborations:
-📩 Email: [Your Email]
-📌 GitHub: [Your GitHub Profile]
+📩 Email: roshanbhagatbysiness2005@gmail.com
+📌 GitHub: https://github.com/roshanbhagat05
+🔗 Linkedin: www.linkedin.com/in/roshanbhagat2005
 
 ---
 🌱 *Let's build a healthier and more sustainable agriculture system with AI!* 🚀
